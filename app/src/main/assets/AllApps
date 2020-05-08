@@ -1,0 +1,59 @@
+{
+  "allApps": [
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351957-afde9480-f51c-11e9-9040-56793820fae6.jpg",
+      "name": "Think And Grow Rich",
+      "packageName": "com.devhippo.main"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351952-afde9480-f51c-11e9-9779-498898b254b6.png",
+      "name": "The Four Agreements",
+      "packageName": "com.DevHippo.TheFourAgreements"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351948-afde9480-f51c-11e9-8d85-76e4b06ded28.png",
+      "name": "Holy Bible",
+      "packageName": "com.devhippo.HolyBible"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351953-afde9480-f51c-11e9-97b6-8b8c2be20a4d.png",
+      "name": "The Law Of Success In Sixteen Lessons",
+      "packageName": "com.devhippo.TheLawOfSuccessInSixteenLessons"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351949-afde9480-f51c-11e9-9442-0174164f5c9a.png",
+      "name": "How To Get What You Want",
+      "packageName": "com.devhippo.HowToGetWhatYouWant"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351954-afde9480-f51c-11e9-985d-109e10f86cb0.png",
+      "name": "The Magic Of Thinking Big",
+      "packageName": "com.devhippo.TheMagicOfThinkingBig"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351950-afde9480-f51c-11e9-9b19-57fb2dbb0c28.png",
+      "name": "How To Turn Your Ability Into Cash",
+      "packageName": "com.devhippo.HowToTurnYourAbilityIntoCash"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351956-afde9480-f51c-11e9-9fc2-91ed924504fb.jpeg",
+      "name": "The Power Of Your Subconscious Mind",
+      "packageName": "com.devhippo.ThePowerOfYourSubconsciousMind"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351955-afde9480-f51c-11e9-9bd9-7046ee749755.png",
+      "name": "The One Thing",
+      "packageName": "com.devhippo.TheOneThing"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351951-afde9480-f51c-11e9-87a6-c0f716b7575b.png",
+      "name": "The 7 Habits Of Highly Effective People",
+      "packageName": "com.devhippo.The7HabitsOfHighlyEffectivePeople"
+    },
+    {
+      "image": "https://user-images.githubusercontent.com/20631330/67351947-afde9480-f51c-11e9-9ed2-2c67f4b6fefa.png",
+      "name": "Grow Rich While You Sleep",
+      "packageName": "com.devhippo.GrowRichWhileYouSleep"
+    }
+  ]
+}
